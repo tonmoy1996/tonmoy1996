@@ -49,3 +49,4 @@ src="https://img.shields.io/github/followers/tonmoy1996?logo=github&style=for-th
 
 <a href="http://www.github.com/tonmoy1996"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoy1996&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![Profile views](https://gpvc.arturio.dev/tonmoy1996) 
