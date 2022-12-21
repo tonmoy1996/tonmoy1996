@@ -8,7 +8,7 @@ Passionate and Results-oriented Software Engineer with almost 4 years of experie
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [saha.tonmoy1996@gmail.com](mailto:saha.tonmoy1996@gmail.com)
-* 🚀  I'm currently working on [Penta Global Ltd.](http://www.pentabd.com/)
+* 🚀  I'm currently working on [Digital Banking- Digital Identity Platform, MayBank](https://www.maybank2u.com.my)
 * 🧠  I'm learning ELk Stack, Socket, AWS,
 
 <a href="https://www.github.com/tonmoy1996" target="_blank" rel="noreferrer"><img
